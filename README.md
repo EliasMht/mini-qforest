@@ -20,9 +20,9 @@ Two tasks: **forest vs rest** (binary) and **10 classes**. One stratified split 
 
 | Notebook | Content | Open |
 | --- | --- | --- |
-| `01_exploration_baselines.ipynb` | Exploration, 35 interpretable features (colour, Green Leaf Index, texture), random forest, small CNN | [Colab](https://colab.research.google.com/github/EliasMht/mini-qforest/blob/main/notebooks/01_exploration_baselines.ipynb) |
-| `02_graph_gnn.ipynb` | k-NN graph of images, homophily, MLP vs GCN vs GAT, sensitivity to k | [Colab](https://colab.research.google.com/github/EliasMht/mini-qforest/blob/main/notebooks/02_graph_gnn.ipynb) |
-| `03_hybrid_quantum.ipynb` | PCA to 4 qubits, variational quantum classifier, IQP quantum kernel, classical baselines of the same size | [Colab](https://colab.research.google.com/github/EliasMht/mini-qforest/blob/main/notebooks/03_hybrid_quantum.ipynb) |
+| `01_exploration_baselines.ipynb` | Exploration, 35 interpretable features (colour, Green Leaf Index, texture), random forest, small CNN | [Colab](https://colab.research.google.com/github/EliasMht/mini-qforest/blob/main/01_exploration_baselines.ipynb) |
+| `02_graph_gnn.ipynb` | k-NN graph of images, homophily, MLP vs GCN vs GAT, sensitivity to k | [Colab](https://colab.research.google.com/github/EliasMht/mini-qforest/blob/main/02_graph_gnn.ipynb) |
+| `03_hybrid_quantum.ipynb` | PCA to 4 qubits, variational quantum classifier, IQP quantum kernel, classical baselines of the same size | [Colab](https://colab.research.google.com/github/EliasMht/mini-qforest/blob/main/03_hybrid_quantum.ipynb) |
 
 Run the notebooks in order: notebook 01 saves the features and the split to Google Drive (`MyDrive/mini-qforest/results`), and notebooks 02 and 03 reuse them.
 
