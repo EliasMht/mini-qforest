@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+tqdm
+torch
+torchvision
+torch_geometric
+pennylane
